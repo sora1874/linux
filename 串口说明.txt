@@ -1,0 +1,5 @@
+linux串口接收数据0x0d 变0x0a
+
+
+
+c_iflag &= ~(ICRNL | IXON)
